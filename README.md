@@ -25,6 +25,7 @@ Follow the installation instructions in the official [ComfyUI GitHub repository]
 
 Clone or download the following custom nodes into your ComfyUI `custom_nodes/` directory:
 
+- [ComfyUI ControlNetAux](https://github.com/Fannovel16/comfyui_controlnet_aux)
 - [ComfyUI Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
 - [ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale)
 - [ComfyUI-Marigold](https://github.com/kijai/ComfyUI-Marigold)
